@@ -1,0 +1,19 @@
+# Documentation & Context Files
+WEBPAGE CONTENT.txt
+DESIGN.md
+CONTEXT.md
+
+# Editor Directories
+.vscode/
+
+# AI Agent Data
+.agents/
+
+# Secrets & Environment Variables
+.env
+.env.local
+.env.*.local
+secrets/
+*.pem
+*.key
+credentials.json

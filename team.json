@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Harshal V T",
+    "designation": "DevOps Engineer",
+    "skills": ["AWS", "Docker", "CI/CD Pipelines"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/1 Harshal.png"
+  },
+  {
+    "name": "Krishna Kumar N",
+    "designation": "Frontend Engineer",
+    "skills": ["React.js", "Next.js", "Tailwind CSS"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/2 krishna.jpg"
+  },
+  {
+    "name": "Janarthanan V",
+    "designation": "Backend Engineer",
+    "skills": ["Node.js", "Express.js", "Database Architecture"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/3 jana.jpg"
+  },
+  {
+    "name": "Harish Kumar S P",
+    "designation": "Full Stack Web Developer",
+    "skills": ["MERN Stack", "REST APIs", "React"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/4 Harish.jpeg"
+  },
+  {
+    "name": "Akshaya S",
+    "designation": "App Developer",
+    "skills": ["Flutter", "React Native", "Mobile UI"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/5 Akshaya.jpg"
+  },
+  {
+    "name": "Suvetha E",
+    "designation": "AI / ML Engineer",
+    "skills": ["Python", "Machine Learning", "Deep Learning"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/6 Suvetha.jpg"
+  },
+  {
+    "name": "Adarsh G",
+    "designation": "UI/UX Designer",
+    "skills": ["Figma", "UI/UX Strategy", "Prototyping"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/7 Adarsh.png"
+  },
+  {
+    "name": "Yashwanth N V",
+    "designation": "Data Analyst",
+    "skills": ["Data Visualization", "SQL", "Python"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/8 Yashwanth.jpeg"
+  },
+  {
+    "name": "Layasree S",
+    "designation": "Cloud Architect",
+    "skills": ["AWS & Azure", "Kubernetes", "Microservices"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/9 Layasree S.jpg"
+  },
+  {
+    "name": "Vishwa",
+    "designation": "Full Stack AI Engineer",
+    "skills": ["Full Stack", "AI Integration", "Scalable Apps"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/10 Vishwa.jpeg"
+  },
+  {
+    "name": "Sarvesh",
+    "designation": "Full Stack Developer",
+    "skills": ["Web Applications", "Smart Systems", "System Design"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/11 sarvesh s .png"
+  },
+  {
+    "name": "Gokul Krishnan",
+    "designation": "AI & Data Science Engineer",
+    "skills": ["Data Science", "Machine Learning", "Full Stack"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/12 Gokul.jpeg"
+  },
+  {
+    "name": "Suriya",
+    "designation": "Full Stack AI Developer",
+    "skills": ["Database Management", "Software Testing", "AI Solutions"],
+    "linkedin": "https://linkedin.com/in/",
+    "photo": "photos/13 Suriya.jpeg"
+  }
+]
